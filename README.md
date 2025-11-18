@@ -4,6 +4,11 @@
 
 Saya Nafis Asyakir Anjar dengan NIM 2407915 mengerjakan Tugas Praktikum 8 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
+## Struktur Folder
+
+<img width="299" height="577" alt="image" src="https://github.com/user-attachments/assets/2678acc7-d268-49d1-b04e-1f5c3e8c0188" />
+
+
 ## Desain Program
 
 <img width="466" height="439" alt="image" src="https://github.com/user-attachments/assets/285762e7-1e75-4d32-ad25-5974a3506d32" />
